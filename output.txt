@@ -1,0 +1,5 @@
+Input:
+200
+
+Output:
+Rs.100
